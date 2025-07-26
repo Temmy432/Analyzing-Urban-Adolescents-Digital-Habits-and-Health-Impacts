@@ -139,4 +139,4 @@ Before analysis, the following preprocessing steps were completed:
 
 ### 1. Average Daily Screen Time by Primary Device
 
-
+![](Images/Screenshot%202025-07-26%20232622.png) 
