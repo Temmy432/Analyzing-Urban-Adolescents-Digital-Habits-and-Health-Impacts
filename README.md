@@ -182,4 +182,4 @@ This analysis examines the average daily screen time among urban adolescents, ca
 
 ### 📊 Educational-to-Recreational Screen Time Ratio by Health Impact
 
-
+![](Images/Screenshot%202025-07-26%20234128.png)   
