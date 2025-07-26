@@ -157,3 +157,4 @@ This analysis examines the **average daily screen time among adolescents**, cate
 ---
 
 ## 2. Daily Screen Time by Reported Health Impacts
+![](Images/Screenshot%202025-07-26%20233945.png) 
