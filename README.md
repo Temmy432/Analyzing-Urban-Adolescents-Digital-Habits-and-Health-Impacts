@@ -446,7 +446,9 @@ This pie chart analysis examines the average age distribution of adolescents bas
 
 ## 9. Total Daily Screen Time by Urban vs. Rural Location
 
+
 ![](Images/Screenshot%202025-07-26&20234345.png)  
+
 
 Pie Chart Analysis: Total Daily Screen Time by Urban vs. Rural Adolescents
 
