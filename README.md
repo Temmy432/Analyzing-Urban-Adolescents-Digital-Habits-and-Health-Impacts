@@ -140,3 +140,20 @@ Before analysis, the following preprocessing steps were completed:
 ### 1. Average Daily Screen Time by Primary Device
 
 ![](Images/Screenshot%202025-07-26%20232622.png) 
+
+This analysis examines the **average daily screen time among adolescents**, categorized by their **primary device**. Understanding which devices contribute most to screen time helps identify usage patterns and potential areas for intervention.
+
+### Key Findings
+
+#### 1. Smartphones Dominate Screen Time
+- **Smartphones** are the most frequently used device, accounting for the **highest average daily screen time**.
+- This trend aligns with global patterns of increasing mobile device dependency among youth.
+- **Implication:** High smartphone usage may indicate heavy engagement with **social media**, **gaming**, or **streaming**, suggesting a need to further explore the balance between **recreational and educational** use.
+
+#### 2. TV and Laptop Usage
+- **Televisions** rank second in average screen time, reflecting continued consumption of both traditional and streaming media.
+- **Laptops and tablets** show **lower average usage**, possibly indicating they are used more selectively—likely for **educational** purposes.
+
+---
+
+## 2. Daily Screen Time by Reported Health Impacts
