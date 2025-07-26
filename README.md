@@ -157,4 +157,29 @@ This analysis examines the **average daily screen time among adolescents**, cate
 ---
 
 ## 2. Daily Screen Time by Reported Health Impacts
+
 ![](Images/Screenshot%202025-07-26%20233945.png) 
+
+This analysis examines the average daily screen time among urban adolescents, categorized by their primary device. Understanding which devices contribute most to screen time helps identify usage patterns and potential areas for intervention.
+
+---
+
+### 🔍 Key Findings
+
+#### 📱 Highest Screen Time Among Those with Multiple Health Impacts
+- Adolescents reporting single health issues (e.g., Poor Sleep) have the highest average daily screen time (approaching **12 hours**).
+- **Implication**: Prolonged and uninterrupted screen exposure may amplify multiple health risks simultaneously.
+
+#### ⚖️ Single vs. Multiple Health Effects
+- Those reporting combined health issues (e.g., Poor Sleep, Anxiety, Obesity Risk) typically have **lower screen times** (between **4 to 8 hours daily**) compared to those with single issues.
+- **Notable Exception**: *Anxiety* appears even in groups with high screen time, suggesting a possible two-way relationship — where anxiety leads to more screen time, and excess screen time may worsen anxiety.
+
+#### ⚠️ Obesity Risk as an Emerging Concern
+- Although not associated with the absolute highest screen times, *Obesity Risk* shows up **consistently**.
+- This may be due to **sedentary behavior** from extended screen use, especially in **gaming** or **streaming-heavy** activities.
+
+---
+
+### 📊 Educational-to-Recreational Screen Time Ratio by Health Impact
+
+
